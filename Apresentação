@@ -31,14 +31,16 @@ Os dados foram utilizados para fins educacionais e de desenvolvimento de portfó
 💡 Principais aprendizados
 
 O desenvolvimento deste projeto permitiu aplicar conhecimentos relacionados a:
-- Análise de dados
-- ETL e preparação de dados
-- Power Query
-- Modelagem de dados
-- DAX
+- Tratamento e preparação de dados utilizando Power Query
+- Modelagem e organização dos dados
+- Relacionamento entre diferentes tabelas
+- Utilização de JOIN para relacionar informações de tabelas distintas
+- Compreensão de como dados de diferentes fontes/tabelas podem ser combinados para gerar uma análise integrada
+- Criação de medidas e indicadores utilizando DAX
 - Criação de KPIs
-- Visualização de dados
-- Análise temporal
-- Forecast e análise de tendências
-- Design de dashboards
-- Storytelling com dados
+- Análise temporal dos dados
+- Utilização do recurso de Forecast (previsão) do Power BI
+- Identificação de tendências a partir de séries históricas
+- Desenvolvimento de dashboards interativos
+- Visualização e storytelling com dados
+- Desenvolvimento de layout e identidade visual no Canva
