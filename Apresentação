@@ -1,0 +1,44 @@
+🚗 Dashboard de Locação de Carros — Power BI
+
+📌 Sobre o projeto
+Este projeto consiste no desenvolvimento de um Dashboard de Locação de Carros utilizando Power BI, com o objetivo de transformar dados de locações em informações visuais que facilitem a análise do desempenho da operação.
+O projeto foi desenvolvido como parte do meu portfólio na área de Dados, aplicando conceitos de tratamento e transformação de dados, análise de indicadores, visualização de dados e criação de dashboards interativos.
+Além da análise dos dados históricos, o projeto também explora o recurso de previsão (Forecast) do Power BI, permitindo observar uma estimativa da tendência futura de determinadas métricas ao longo do tempo.
+
+🎯 Objetivos
+O dashboard foi desenvolvido para possibilitar uma análise dos principais indicadores relacionados à operação de locação de veículos.
+Entre os objetivos estão:
+- Analisar a quantidade de locações
+- Acompanhar o faturamento da operação
+- Analisar a evolução das locações ao longo do tempo
+- Analisar o desempenho dos veículos
+- Avaliar informações relacionadas aos clientes
+- Identificar padrões de comportamento nas locações
+- Utilizar previsão para analisar tendências futuras
+
+🗂️ Fonte dos dados
+A base de dados utilizada neste projeto foi obtida a partir do Curso da Udemy PowerBI + SQLServer (https://www.udemy.com/course/powerbi-sqlserver/?couponCode=UDEAFFMX0926).
+Os dados foram utilizados para fins educacionais e de desenvolvimento de portfólio.
+
+🛠️ Ferramentas utilizadas
+- Power BI: desenvolvimento do dashboard e visualização dos dados
+- Power Query: limpeza, tratamento e transformação dos dados
+- DAX: criação de medidas e indicadores
+- Excel: organização e armazenamento da base de dados
+- Canva: desenvolvimento do layout e identidade visual
+- GitHub: documentação e disponibilização do projeto
+
+💡 Principais aprendizados
+
+O desenvolvimento deste projeto permitiu aplicar conhecimentos relacionados a:
+- Análise de dados
+- ETL e preparação de dados
+- Power Query
+- Modelagem de dados
+- DAX
+- Criação de KPIs
+- Visualização de dados
+- Análise temporal
+- Forecast e análise de tendências
+- Design de dashboards
+- Storytelling com dados
